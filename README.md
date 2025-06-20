@@ -22,9 +22,9 @@ This project aims to analyze road traffic accidents across Nigeria from 2021 to 
 **Tools Used:**
 **Microsoft Excel:**
 1. **Data Cleaning & Preprocessing**:
-  Raw data was first imported into Excel for initial cleaning. Tasks included removing duplicates, correcting inconsistent spellings (e.g., state names), filling or flagging missing values, and standardizing date formats.
+Raw data was first imported into Excel for initial cleaning. Tasks included removing duplicates, correcting inconsistent spellings (e.g., state names), filling or flagging missing values, and standardizing date formats.
 2. **Pivot Tables & Charts**:
-  Used extensively to summarize accident counts by year and state. Pivot Tables made it easy to generate quick insights into totals, averages, and trends.
+Used extensively to summarize accident counts by year and state. Pivot Tables made it easy to generate quick insights into totals, averages, and trends.
 
 **Exploratory Data Analysis (EDA):**
 **Key observations from EDA include:**
