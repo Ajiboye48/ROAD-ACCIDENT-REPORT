@@ -21,7 +21,15 @@ This project aims to analyze road traffic accidents across Nigeria from 2021 to 
 
 **Tools Used:**
 **Microsoft Excel:**
-* **Data Cleaning & Preprocessing**:
+1. **Data Cleaning & Preprocessing**:
 Raw data was first imported into Excel for initial cleaning. Tasks included removing duplicates, correcting inconsistent spellings (e.g., state names), filling or flagging missing values, and standardizing date formats.
-* **Pivot Tables & Charts**:
+2. **Pivot Tables & Charts**:
 Used extensively to summarize accident counts by year and state. Pivot Tables made it easy to generate quick insights into totals, averages, and trends.
+
+**Exploratory Data Analysis (EDA):**
+**Key observations from EDA include:**
+A noticeable spike in road accidents in Q4 of each year
+Kaduna, FCT, and Ogun consistently reported the highest number of accidents
+Speed violation and loss of control were among the top causes
+Commercial vehicles were involved in over 60% of all reported incidents
+Higher accident rates were recorded during festive periods and weekends
