@@ -22,9 +22,9 @@ This project aims to analyze road traffic accidents across Nigeria from 2021 to 
 **Tools Used:**
 **Microsoft Excel:**
 1. **Data Cleaning & Preprocessing**:
-Raw data was first imported into Excel for initial cleaning. Tasks included removing duplicates, correcting inconsistent spellings (e.g., state names), filling or flagging missing values, and standardizing date formats.
+  Raw data was first imported into Excel for initial cleaning. Tasks included removing duplicates, correcting inconsistent spellings (e.g., state names), filling or flagging missing values, and standardizing date formats.
 2. **Pivot Tables & Charts**:
-Used extensively to summarize accident counts by year and state. Pivot Tables made it easy to generate quick insights into totals, averages, and trends.
+  Used extensively to summarize accident counts by year and state. Pivot Tables made it easy to generate quick insights into totals, averages, and trends.
 
 **Exploratory Data Analysis (EDA):**
 **Key observations from EDA include:**
@@ -36,20 +36,20 @@ Used extensively to summarize accident counts by year and state. Pivot Tables ma
 
 ---
 
-__Formulas & Functions:__
+ __Formulas & Functions:__
 Functions like IF, VLOOKUP, TEXT, and SUMIFS helped in data transformation, creating new calculated columns such as:
 * Monthly accident rates
 * Fatality-per-accident ratios
 * Classification of accident severity
 
-**Results**:
+### **Results**:
 1. Identified top 10 high-risk states with recurring accident trends
 2. Established a link between vehicle type and accident severity
 3. Quantified the reduction (or increase) in fatalities over the three-year period
 4. Demonstrated temporal patterns that align with major travel periods and road usage surges
 
 
-**Recommendations**:
+### **Recommendations**:
 1. Intensify public road safety awareness campaigns, especially in high-risk states
 2. Enforce stricter speed limit regulations and increase presence of road patrols
 3. Improve road infrastructure in accident-prone regions
