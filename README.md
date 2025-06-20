@@ -33,3 +33,12 @@ Used extensively to summarize accident counts by year and state. Pivot Tables ma
 3. Speed violation and loss of control were among the top causes
 4. Commercial vehicles were involved in over 60% of all reported incidents
 5. Higher accident rates were recorded during festive periods and weekends
+
+---
+
+__Formulas & Functions:__
+Functions like IF, VLOOKUP, TEXT, and SUMIFS helped in data transformation, creating new calculated columns such as:
+* Monthly accident rates
+* Fatality-per-accident ratios
+* Classification of accident severity
+
