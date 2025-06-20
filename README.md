@@ -28,8 +28,8 @@ Used extensively to summarize accident counts by year and state. Pivot Tables ma
 
 **Exploratory Data Analysis (EDA):**
 **Key observations from EDA include:**
-A noticeable spike in road accidents in Q4 of each year
-Kaduna, FCT, and Ogun consistently reported the highest number of accidents
-Speed violation and loss of control were among the top causes
-Commercial vehicles were involved in over 60% of all reported incidents
-Higher accident rates were recorded during festive periods and weekends
+1. A noticeable spike in road accidents in Q4 of each year
+2. Kaduna, FCT, and Ogun consistently reported the highest number of accidents
+3. Speed violation and loss of control were among the top causes
+4. Commercial vehicles were involved in over 60% of all reported incidents
+5. Higher accident rates were recorded during festive periods and weekends
