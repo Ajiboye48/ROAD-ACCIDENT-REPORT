@@ -19,6 +19,7 @@ This project aims to analyze road traffic accidents across Nigeria from 2021 to 
 * Supplemented with open government data portals and verified datasets from Kaggle and data repositories when available
 * Cross-checked for consistency with media and annual transport statistics publications
 
+---
 ### **Tools Used:**
 **Microsoft Excel:**
 1. **Data Cleaning & Preprocessing**:
