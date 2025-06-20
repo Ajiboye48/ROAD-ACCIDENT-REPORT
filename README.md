@@ -13,3 +13,8 @@ This project aims to analyze road traffic accidents across Nigeria from 2021 to 
 * Data Cleaning: Removed duplicates, handled missing values, standardized column formats (e.g., dates, state names)
 * Data Transformation: Created new metrics (e.g., fatality rate per 100 accidents), and categorized causes.
 * Visual Analysis: Built interactive visuals to uncover temporal and regional trends
+
+**Data Source:**
+* Federal Road Safety Corps (FRSC) Nigeria official reports
+* Supplemented with open government data portals and verified datasets from Kaggle and data repositories when available
+* Cross-checked for consistency with media and annual transport statistics publications
