@@ -42,3 +42,9 @@ Functions like IF, VLOOKUP, TEXT, and SUMIFS helped in data transformation, crea
 * Fatality-per-accident ratios
 * Classification of accident severity
 
+**Results**:
+**Identified top 10 high-risk states with recurring accident trends
+**Established a link between vehicle type and accident severity
+**Quantified the reduction (or increase) in fatalities over the three-year period
+**Demonstrated temporal patterns that align with major travel periods and road usage surges
+
