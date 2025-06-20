@@ -48,10 +48,6 @@ Functions like IF, VLOOKUP, TEXT, and SUMIFS helped in data transformation, crea
 3. Quantified the reduction (or increase) in fatalities over the three-year period
 4. Demonstrated temporal patterns that align with major travel periods and road usage surges
 
-### **Data Story: Road Traffic Accidents in Nigeria (2021–2023)**
-Understanding the Human and Regional Impact Through Dashboard Insights
-To uncover deeper insights into the nature and impact of road traffic accidents across Nigeria, this dashboard focuses on six key indicators across all 36 states and the FCT. Each visualization reveals distinct patterns that, together, tell a comprehensive story of road safety challenges in Nigeria between 2021 and 2023
-
 ### **Top 10 States with Fatal Cases**
 This chart highlights the states with the highest number of deadly road traffic accidents, emphasizing areas where accidents most often result in loss of life.
 **Observation**: States like FCT, Kaduna, and Ogun appear consistently, likely due to higher population density, busy road networks, and increased vehicular movement.
@@ -89,3 +85,6 @@ This focuses solely on non-fatal injuries, pointing out where most road users su
 4. Promote the use of intelligent transport systems (ITS) for better traffic monitoring
 5. Encourage annual safety audits and public release of traffic data for transparency and policy formulation
 
+### **Data Story: Road Traffic Accidents in Nigeria (2021–2023)**
+Understanding the Human and Regional Impact Through Dashboard Insights
+To uncover deeper insights into the nature and impact of road traffic accidents across Nigeria, this dashboard focuses on six key indicators across all 36 states and the FCT. Each visualization reveals distinct patterns that, together, tell a comprehensive story of road safety challenges in Nigeria between 2021 and 2023
