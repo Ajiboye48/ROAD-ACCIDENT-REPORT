@@ -92,3 +92,4 @@ This focuses solely on non-fatal injuries, pointing out where most road users su
 Understanding the Human and Regional Impact Through Dashboard Insights
 To uncover deeper insights into the nature and impact of road traffic accidents across Nigeria, this dashboard focuses on six key indicators across all 36 states and the FCT. Each visualization reveals distinct patterns that, together, tell a comprehensive story of road safety challenges in Nigeria between 2021 and 2023
 
+[Dashboard.jpg.xlsx](https://github.com/user-attachments/files/20839678/Dashboard.jpg.xlsx)
